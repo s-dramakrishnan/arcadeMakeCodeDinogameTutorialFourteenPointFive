@@ -1,0 +1,27 @@
+{
+    "name": "Arcade MakeCode dinogame Tutorial 14.5",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "makecode_tutorials": "github:Jacob-Tate/makecode_tutorials#v3.3.0",
+        "color-coded-tilemap": "*",
+        "TomatoCubeArcadeSprites": "github:Jacob-Tate/tomatocube-arcade-sprites#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.45",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
